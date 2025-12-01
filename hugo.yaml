@@ -1,0 +1,32 @@
+baseURL: /
+languageCode: en-us
+title: The Pentagon Conquest
+
+theme: PaperMod
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  defaultTheme: auto
+  ShowBreadCrumbs: true
+
+  profileMode:
+    enabled: true
+    title: Mr Worldwide - A FM26 Pentagon Conquest
+    subtitle: Playing one of the hardest challenges in Football Manager
+
+    buttons:
+    - name: Posts
+      url: posts/
+
+    - name: About the Save
+      url: posts/about-the-save/
+
+    - name: Clubs Managed
+      url: clubs/
+
+  socialIcons:
+  - name: github
+    url: https://github.com/charlescsr
