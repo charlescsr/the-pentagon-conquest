@@ -1,6 +1,6 @@
 ---
 date: '2025-12-16T16:10:56Z'
-draft: true
+draft: false
 title: 'Always check the rules'
 ---
 
